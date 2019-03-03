@@ -9,10 +9,10 @@ public class Main {
         listNode.addNode(3);
         listNode.addNode(3);
         listNode.addNode(3);
+        listNode.addNode(5);
+        listNode.addNode(5);
+        listNode.addNode(5);
         listNode.addNode(234);
-        listNode.addNode(5);
-        listNode.addNode(5);
-        listNode.addNode(5);
         listNode.printListNode();
         listNode.deleteDuplicates();
         listNode.printListNode();
